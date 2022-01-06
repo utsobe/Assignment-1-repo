@@ -106,9 +106,11 @@ form {
     height: 320px;
     width: 400px;
     text-align: center;
-    margin: 50px 0 50px 470px;
+    margin: 50px 0;
+    margin-left: 37.5%;
     box-shadow: 0 0 10px gray;
     padding-top: 40px;
+    border-radius: 5px;
 }
 
 form input {
@@ -132,6 +134,8 @@ button {
     color: white;
     border: none;
     font-weight: 400;
+    border-radius: 5px
+    ;
 }
 
 /* ---------------footer----------------- */
