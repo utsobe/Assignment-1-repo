@@ -99,3 +99,18 @@ span {
 .third-title {
     font-size: 40px;
 }
+
+
+/* ---------------footer----------------- */
+
+footer {
+    background-color: black;
+    height: 200px;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+.footer-alignment {
+    padding-top: 30px;
+}
