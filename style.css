@@ -78,7 +78,7 @@ span {
 }
 
 .margin-bottom {
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 
 /* ------------------develop section--------------- */
@@ -100,6 +100,39 @@ span {
     font-size: 40px;
 }
 
+/* ------------form----------------- */
+
+form {
+    height: 320px;
+    width: 400px;
+    text-align: center;
+    margin: 50px 0 50px 470px;
+    box-shadow: 0 0 10px gray;
+    padding-top: 40px;
+}
+
+form input {
+    height: 30px;
+    width: 300px;
+    margin: 10px 0;
+    border: blueviolet 2px solid;
+    padding-left: 10px;
+}
+
+form textarea {
+    border: blueviolet 2px solid;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+button {
+    padding: 10px 138px;
+    margin-top: 10px;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    font-weight: 400;
+}
 
 /* ---------------footer----------------- */
 
