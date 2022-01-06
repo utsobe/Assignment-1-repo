@@ -1,0 +1,44 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+/* --------top section------------ */
+
+.top {
+    display: flex;
+    padding: 0 8%;
+}
+
+.top-left {
+    width: 50%;
+    padding: 40px;
+    margin-top: 40px;
+}
+
+.top-right {
+    width: 50%;
+    padding: 0 50px 50px 50px;
+    
+}
+
+.top-right img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+span {
+    color: blueviolet;
+}
+
+.top-left .btn {
+    text-decoration: none;
+    background-color: blueviolet;
+    color: white;
+    font-weight: 400;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
